@@ -24,7 +24,7 @@ A GUI application to manage daily tasks. Users can add, view, and mark tasks as 
 
 A fun and interactive quiz game where players answer multiple-choice questions. The game keeps track of the user's score and provides immediate feedback on each answer.
 
-![Quiz-game](./images/quiz.png)
+![Quiz-game](./images/quiz.png.png)
 
 ---
 
